@@ -1,2 +1,2 @@
 # disciplinateptarde
-Material disponível pelo professor da disciplina tep
+Material disponível pelo professor da disciplina TEP
